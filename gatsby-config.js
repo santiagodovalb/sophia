@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: `SOPHIA`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    description: `Sitio de la banda Sophia`,
+    author: `Santiago Doval`,
+    siteUrl: `https://sophiamusica.netlify.app/`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

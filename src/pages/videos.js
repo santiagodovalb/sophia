@@ -22,8 +22,7 @@ export default function Videos() {
         timeout={500} //3 secs
       />
         <iframe
-          width="560"
-          height="315"
+          className='video'
           src="https://www.youtube.com/embed/1Slx4ivJlLI"
           title="YouTube video player"
           frameborder="0"
@@ -40,9 +39,8 @@ export default function Videos() {
         timeout={500} //3 secs
       />
         <iframe
-          id="stalkeo"
-          width="560"
-          height="315"
+        className='video'
+          
           src="https://www.youtube.com/embed/1KKqCq2skFU"
           title="YouTube video player"
           frameborder="0"
