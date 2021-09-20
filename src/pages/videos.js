@@ -9,7 +9,6 @@ import Loader from "react-loader-spinner";
 export default function Videos() {
   return (
     <div>
-      {console.log('logeo stalkeo', document.getElementById("stalkeo"))}
       <Seo />
       <Navbar />
       
