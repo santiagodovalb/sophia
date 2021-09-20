@@ -14,11 +14,8 @@ const Navbar = () => (
         <Link to="/letras">
           LETRAS
         </Link>
-        <Link to="/cosas">
-          COSAS
-        </Link>
         <Link to="/contacto">
-          CONTACTO
+          CONTACTO & REDES
         </Link>
     </div>
   </navbar>

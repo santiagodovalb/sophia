@@ -1,0 +1,17 @@
+.redes {
+    margin: 0 auto;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    font-size: 70px;
+}
+
+.redes a {
+    margin: 50px auto;
+    text-decoration: none;
+    color: white;
+}
+
+.redes h2 {
+    margin: 50px auto;
+}
