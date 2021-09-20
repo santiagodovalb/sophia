@@ -1,0 +1,23 @@
+.links {
+    display: flex;
+    margin: 20px auto;
+    align-items: center;
+    justify-content: space-between;
+    width: 33%;
+}
+
+.links a {
+    display: flex;
+    color: white;
+    text-decoration: none;
+    font-family:monospace;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    font-size: 20px;
+}
+
+.links a:hover {
+    background-color: white;
+    color: black;
+}
