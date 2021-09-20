@@ -5,17 +5,20 @@ import '../styles/navbar.css'
 const Navbar = () => (
   <navbar>
     <div className='links'>
+        <Link to="/">
+          INICIO
+        </Link>
         <Link to="/videos">
           VIDEOS
         </Link>
-        <Link to="/fechas">
-          FECHAS
+        <Link to="/letras">
+          LETRAS
         </Link>
         <Link to="/cosas">
           COSAS
         </Link>
-        <Link to="/otrascosas">
-          OTRAS COSAS
+        <Link to="/contacto">
+          CONTACTO
         </Link>
     </div>
   </navbar>
