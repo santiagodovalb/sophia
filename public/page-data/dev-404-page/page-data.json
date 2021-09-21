@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---cache-dev-404-page-js",
     "path": "/dev-404-page/",
-    "result": {"data":{"allSiteFunction":{"nodes":[]},"allSitePage":{"nodes":[{"path":"/contacto/"},{"path":"/"},{"path":"/letras/"},{"path":"/videos/"},{"path":"/letras/martes/"},{"path":"/letras/stalkeo/"}]}},"pageContext":{}},
+    "result": {"data":{"allSiteFunction":{"nodes":[]},"allSitePage":{"nodes":[{"path":"/404.html"},{"path":"/404/"},{"path":"/contacto/"},{"path":"/"},{"path":"/letras/"},{"path":"/videos/"},{"path":"/letras/martes/"},{"path":"/letras/stalkeo/"}]}},"pageContext":{}},
     "staticQueryHashes": []}

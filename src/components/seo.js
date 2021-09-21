@@ -38,7 +38,7 @@ function Seo({ description=`Sitio de la banda Sophia`, lang, meta, title='Sophia
       meta={[
         {
           name: `description`,
-          content: metaDescription,
+          content: description,
         },
         {
           property: `og:title`,
