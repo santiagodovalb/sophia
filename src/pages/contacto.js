@@ -21,7 +21,7 @@ export default function contacto() {
         <a href="https://open.spotify.com/artist/0IY9YDRsCEg2lrDPWC8toy" target="_blank" rel="noreferrer">
           <FaSpotify />
         </a>
-        <h2>mail@mail.com</h2>
+        <h2>info.sophiamusica@gmail.com</h2>
       </div>
       <Layout />
     </div>
