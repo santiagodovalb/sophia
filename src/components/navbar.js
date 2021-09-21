@@ -35,7 +35,7 @@ const Navbar = () => (
         </Link>
         </ul>
     </div>
-    <div id='mobLinks' style={{display:'none'}}>
+    <div id='mobLinks' class='slide-bottom' style={{display:'none'}}>
       <ul className='mobLink'>
         <Link to="/">
           INICIO
