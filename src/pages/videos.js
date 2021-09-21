@@ -25,9 +25,9 @@ export default function Videos() {
           className='video'
           src="https://www.youtube.com/embed/1Slx4ivJlLI"
           title="YouTube video player"
-          frameborder="0"
+          frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen
+          allowFullScreen
         ></iframe>
 
         <h1>STALKEO</h1>
@@ -43,9 +43,9 @@ export default function Videos() {
           
           src="https://www.youtube.com/embed/1KKqCq2skFU"
           title="YouTube video player"
-          frameborder="0"
+          frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen
+          allowFullScreen
         ></iframe>
         <Layout />
       </div>

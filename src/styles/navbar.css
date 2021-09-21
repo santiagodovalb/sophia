@@ -39,6 +39,7 @@
         display: block;
         font-size: 40px;
         padding-top: 20px;
+        padding-bottom: 20px;
         text-align: center;
     }
     .links {
@@ -52,7 +53,6 @@
         font-family:monospace;
         font-size: 30px;
         background-color: rgb(17, 16, 16);
-        
     }
     #mobLinks ul {
         margin: 0 auto;

@@ -9,7 +9,7 @@ const toggleMenu = () => {
 }
 
 const Navbar = () => (
-  <navbar>
+  <div>
       <div id='menu' onClick={toggleMenu}>
         <AiOutlineMenu />
       </div>
@@ -58,7 +58,7 @@ const Navbar = () => (
         </ul>
     </div>
     
-  </navbar>
+  </div>
 )
 
 export default Navbar
